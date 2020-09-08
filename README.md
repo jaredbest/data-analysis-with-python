@@ -1,2 +1,5 @@
-Data Analysis with Python course by IBM on Coursera <br>
-Part of IBM Data Science Professional Certificate specialization
+# Course Repo
+- **Title:** Data Analysis with Python
+- **Creator(s):** IBM
+- **Platform:** Coursera
+- **Note(s):** Part of IBM Data Science Professional Certificate specialization
