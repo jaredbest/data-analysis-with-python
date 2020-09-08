@@ -1,5 +1,5 @@
 # Course Repo
 - **Title:** Data Analysis with Python
-- **Creator(s):** IBM
+- **Taught by:** IBM
 - **Platform:** Coursera
-- **Note(s):** Part of the IBM Data Science Professional Certificate specialization
+- **Note(s):** Part of the IBM Data Science Professional Certificate
