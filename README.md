@@ -2,4 +2,4 @@
 - **Title:** Data Analysis with Python
 - **Creator(s):** IBM
 - **Platform:** Coursera
-- **Note(s):** Part of IBM Data Science Professional Certificate specialization
+- **Note(s):** Part of the IBM Data Science Professional Certificate specialization
